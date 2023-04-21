@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYsnSuUMN215T+OqhvLpjCGhA5+A9zzO4bliXS+1zavjM3mG58Z/wBgF2AaUawbQoUPKatpePxKsSeXAgejwcg==",
+  "success": true,
+  "projectFilePath": "/Users/ming/HRMProject/HRM.ApplicationCore/HRM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/ming/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
